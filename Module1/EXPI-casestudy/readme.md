@@ -51,7 +51,7 @@ Smaller competitors, operating without the differentiated technology eXp World H
 
 * <i>Brokerage efficiency metrics or transactions per agent</i> - eXp World Holdings produced improved brokerage efficiency metrics the last four years, yet still lagd behind industry leaders, such as RE/MAX (16.0), Keller Williams (6.9). Most traditional RE brokerages have experienced negative trending broker efficiency figures, dating back to 2016, while technology-driven RE firms are generating positive trending transactions per agent results.
 
-* <i>Agent growth and Market Share</i> - eXp World Holdings saw agent count grow 59% year over year tp 28,449 agents
+* <i>Agent growth and Market Share</i> - Many of the established brokers have lost agent count market shaure in recent years, as total residential RE industry annual growth is down four years in a row, falling negative in 2020, as of April.
 
 eXp World Holdings is clearly outperforming the industry on a percentage growth basis, however off a relatively low market share base. The current operating conditions have pulled forward many secular trend shifts in technology, providing a significant tailwind for the cloud-based and virual workplace company, moving forward.
 
@@ -73,4 +73,4 @@ Virtual and augmented reality offerings to better support home buyers as they re
 
 Many of these innovations already offer proven use-cases regarding the viability of the technology stack; yet, struggle for wide-spread adoption due to poor economics as a standalone solution or suffer from clunky forced UX-deficient integrations, further hindered by archaic processes.  eXp World Holdings is uniquely positioned to accept these technology stacks within its already validated and profitable, cloud-based brokerage business model and virtual workplace platform offering.
 
-![markdown-image](https://github.com/Ogo1024/CU_Repos.gitModule1/images/EXPI-VRwork.jpg)
+![markdown-image](https://github.com/Ogo1024/CU_Repos.git/Module1/images/EXPI-VRwork.jpg)
