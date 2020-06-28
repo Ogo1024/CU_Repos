@@ -22,7 +22,7 @@ In recent years, the most forward thinking residential RE brokerages have target
 
 **What are the other major companies in this domain?**
 
-eXp Worldwide represents a new class of residential RE brokerage companies with a top-down focus on technology to deliver a more favorable agent experience through higher revenue splits, signing bonuses and equity allotments, resulting in better overall productivity and competitiveness relative to industry peers. Redfin (NASDAQ: RDFN), and Compass (compass.com), represent other technology-focused peers, leveraging innovation to gain market share, from established players, most notably Keller Williams (kw.com), Berkshire Hathaway’s (NYSE: BRK.A) Home Services of America (homeservices.com), RE/MAX (NYSE: RMAX), as well as  Coldwell Banker (coldwellbanker.com) and Century 21(century21.com), both operating under the Realogy Brokerage Group (NASDAQ: RLGY).
+eXp Worldwide represents a new class of residential RE brokerage companies with a top-down focus on technology to deliver a more favorable agent experience through higher revenue splits, signing bonuses and equity allotments, resulting in better overall productivity and competitiveness relative to industry peers. Redfin (NASDAQ: RDFN), and [Compass](compass.com), represent other technology-focused peers, leveraging innovation to gain market share, from established players, most notably [Keller Williams](kw.com), Berkshire Hathaway’s (NYSE: BRK.A) [Home Services of America](homeservices.com), RE/MAX (NYSE: RMAX), as well as  [Coldwell Banker](coldwellbanker.com) and [Century 21](century21.com), both operating under the Realogy Brokerage Group (NASDAQ: RLGY).
 
 ## Results
 
