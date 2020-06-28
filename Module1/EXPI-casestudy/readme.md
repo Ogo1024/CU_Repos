@@ -73,4 +73,4 @@ Virtual and augmented reality offerings to better support home buyers as they re
 
 Many of these innovations already offer proven use-cases regarding the viability of the technology stack; yet, struggle for wide-spread adoption due to poor economics as a standalone solution or suffer from clunky forced UX-deficient integrations, further hindered by archaic processes.  eXp World Holdings is uniquely positioned to accept these technology stacks within its already validated and profitable, cloud-based brokerage business model and virtual workplace platform offering.
 
-
+![markdown-image](Module1/images/EXPI-VRwork.jpg)
