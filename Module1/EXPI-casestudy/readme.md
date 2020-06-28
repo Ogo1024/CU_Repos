@@ -1,12 +1,16 @@
 # eXp World Holdings Case Study
 
+![markdown-image]
+
+## This fintech case study provides analysis on th company, eXp World Holdings (NASDAQ: EXPI). 
+
 ## FinTech Domain
 
-### What domain of the financial industry is the company in?
+**What domain of the financial industry is the company in?**
 
 eXp World Holdings (NASDAQ: EXPI) operates primarily as a cloud-based residential real-estate brokerage, supported by its proprietary virtual workplace platform offering to agents and brokers, across the U.S. and Canada.
 
-### What have been the major trends and innovations of this domain over the last 5-10 years?
+**What have been the major trends and innovations of this domain over the last 5-10 years?**
 
 Over the last 5-10 years, many of the major trends and innovations within real-estate, are consistent with secular shifts in technology across the overall global economy. The transformation of RE firms with physical brick & mortar operations from paper driven processes to digital workflows, led to the adoption of cloud infrastructures and improved access to big data, industry-wide. 
 
@@ -14,13 +18,13 @@ These innovations positioned RE firms with physical brick & mortar operations to
 
 In recent years, the most forward thinking residential RE brokerages have targeted machine learning and virtual reality/augmented reality technologies to boost efficiency and create operating leverage, capable of driving higher margins, while providing a superior customer experience. 
 
-### What are the other major companies in this domain?
+**What are the other major companies in this domain?**
 
 eXp Worldwide represents a new class of residential RE brokerage companies with a top-down focus on technology to deliver a more favorable agent experience through higher revenue splits, signing bonuses and equity allotments, resulting in better overall productivity and competitiveness relative to industry peers. Redfin (NASDAQ: RDFN), and Compass (compass.com), represent other technology-focused peers, leveraging innovation to gain market share, from established players, most notably Keller Williams (kw.com), Berkshire Hathaway’s (NYSE: BRK.A) Home Services of America (homeservices.com), RE/MAX (NYSE: RMAX), as well as  Coldwell Banker (coldwellbanker.com) and Century 21(century21.com), both operating under the Realogy Brokerage Group (NASDAQ: RLGY).
 
 ## Results
 
-### What has been the business impact of this company so far?
+**What has been the business impact of this company so far?**
 
 Despite historically difficult operating conditions in 2020 due to mitigation efforts to address the global pandemic, eXp World Holdings continues to gain market share from traditional competitors, excluding Keller Williams. 
 
@@ -28,21 +32,19 @@ The company’s cloud-based residential RE model facilitated management’s abil
 
 Smaller competitors, operating without the differentiated technology eXp World Holdings has built, are now adopting eXp World Holdings’ technology as a white label solution to navigate significant near-term headwinds, created by the pandemic.
 
-### What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+**What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?**
 
 * 1. Agent Growth - eXp World Holdings saw its agent count grow 59% year over year to 28,449 agents
 
-* 2. Transaction Sides Growth and Market share
-Residential transaction sides hit 38,000, beating consensus estimates, while sales volume topped $11.2 billion, representing 93% growth year over year.  Market share of total residential sides hit 1.2% by the close of 2019.
+* 2. Transaction Sides Growth and Market share - Residential transaction sides hit 38,000, beating consensus estimates, while sales volume topped $11.2 billion, representing 93% growth year over year.  Market share of total residential sides hit 1.2% by the close of 2019.
 
 * 3. Brokerage Efficiency Metrics or transactions per agent - At 6.0 transactions per agent in 2019, up from 5.1 transactions per agent in 2019, eXp World Holdings is delivering positive results, trending in the right direction.
 
-### How is your company performing relative to competitors in the same domain? 
+**How is your company performing relative to competitors in the same domain?** 
 
 * 1. Agent Growth and Market Share - eXp World Holdings saw agent count grow 59% year over year tp 28,449 agents
 
-* 2. Transaction Sides Growth and Market share
-Total residential sides compound annual growth rates (CAGR) from 2014 to 2019, for eXp World Holdings was 126%, behind Compass at CAGR of 144%, but ahead of Refin at CAGR of 34%. Established industry players such as Keller Williams, RE/MAX delivered CAGR below 10% for the same four year period, while Realogy agencies, Coldwell Banker and Century 21, both delivered negative CAGRs. 
+* 2. Transaction Sides Growth and Market share - Total residential sides compound annual growth rates (CAGR) from 2014 to 2019, for eXp World Holdings was 126%, behind Compass at CAGR of 144%, but ahead of Refin at CAGR of 34%. Established industry players such as Keller Williams, RE/MAX delivered CAGR below 10% for the same four year period, while Realogy agencies, Coldwell Banker and Century 21, both delivered negative CAGRs. 
 
 * 3. Brokerage Efficiency Metrics or transactions per agent - eXp World Holdings produced improved brokerage efficiency metrics the last four years, yet still lag industry leaders, such as RE/MAX (16.0), Keller Williams (6.9). Yet, most traditional RE brokerages have experienced negative trending broker efficiency dating back to 2016, while technology-driven are generating positive trending brokerage 
 
@@ -50,19 +52,19 @@ eXp World Holdings is clearly outperforming the industry on a percentage growth 
 
 ## Recommendations 
 
-### If you were to advise the company, what products or services would you suggest they offer? 
+**If you were to advise the company, what products or services would you suggest they offer?**
 
 Currently, the eXp World Holdings provides agents with access to a number of vetted third party solutions through a newly launched marketplace for home buying services. The company should eventually launch its own app store, with internal solutions that seamlessly integrate with the company’s current workflows.
 
-### Why do you think that offering this product or service would benefit the company? 
+**Why do you think that offering this product or service would benefit the company?** 
 
 eXp World Holdings is already well ahead of the industry with its technology driven approach, thus making it difficult to find partners that will match the experience they currently provide to agents, as well as smaller brick and mortar residential RE brokerages that license their technology. By investing in these solutions now, they can maintain agent productivity from end-to-end, while launching new products that could provide a stronger technology moat and expand the company’s TAM.
 
-### What technologies would this additional product or service utilize? 
+**What technologies would this additional product or service utilize?** 
 
 Virtual and augmented reality offerings to better support home buyers as they research new listings provided by the company. Machine learning to leverage big data for “instant cash offers” to residential customers looking to sell property quickly. The implementation of blockchain technologies to reduce friction across underwriting, title & escrow, currency exchange, payments and compliance work flows.
 
-### Why are these technologies appropriate for your solution?
+**Why are these technologies appropriate for your solution?**
 
 Many of these innovations already offer proven use-cases regarding the viability of the technology stack, yet still struggle for wide-spread adoption due to poor economics as a standalone solution or suffer from clunky forced integrations with archaic processes.  eXp World Holdings is uniquely positioned to accept these technology stacks within its already validated and profitable, cloud-based brokerage business model and virtual workplace platform offering.
 
