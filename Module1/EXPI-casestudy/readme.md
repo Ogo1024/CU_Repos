@@ -4,7 +4,7 @@
 
 ## This fintech case study provides company analysis on eXp World Holdings (NASDAQ: EXPI) and its peers.
 
-![markdown-image](EXPI-chart.jpg)
+![](EXPI-chart.jpg)
 
 ## FinTech Domain
 
@@ -43,7 +43,7 @@ Smaller competitors, operating without the differentiated technology eXp World H
 
 * <i>Agent growth</i> - eXp World Holdings saw its agent count grow 59% year over year to 28,449 agents <i>(see image below)</i>
 
-![markdown-image](images/EXPI-agent-growth.jpg)
+![](images/EXPI-agent-growth.jpg)
 
 **How is your company performing relative to competitors in the same domain?** 
 
@@ -73,4 +73,4 @@ Virtual and augmented reality offerings to better support home buyers as they re
 
 Many of these innovations already offer proven use-cases regarding the viability of the technology stack; yet, struggle for wide-spread adoption due to poor economics as a standalone solution or suffer from clunky forced UX-deficient integrations, further hindered by archaic processes.  eXp World Holdings is uniquely positioned to accept these technology stacks within its already validated and profitable, cloud-based brokerage business model and virtual workplace platform offering.
 
-![markdown-image](https://github.com/Ogo1024/CU_Repos.git/Module1/images/EXPI-VRwork.jpg)
+![](https://github.com/Ogo1024/CU_Repos.git/Module1/images/EXPI-VRwork.jpg)
