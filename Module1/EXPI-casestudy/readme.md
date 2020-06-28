@@ -1,8 +1,10 @@
 # eXp World Holdings Case Study
 
-![markdown-image]
+![markdown-image](images/expi-campus.jpg)
 
 ## This fintech case study provides company analysis on eXp World Holdings (NASDAQ: EXPI) and its peers.
+
+![markdown-image](images/expi-chart.jpg)
 
 ## FinTech Domain
 
@@ -34,19 +36,22 @@ Smaller competitors, operating without the differentiated technology eXp World H
 
 **What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?**
 
-* <i>Agent growth</i> - eXp World Holdings saw its agent count grow 59% year over year to 28,449 agents
 
 * <i>Transaction sides growth and market share</i> - Residential transaction sides hit 38,000, beating consensus estimates, while sales volume topped $11.2 billion, representing 93% growth year over year.  Market share of total residential sides hit 1.2% by the close of 2019.
 
 * <i>Brokerage efficiency metrics or transactions per agent</i> - At 6.0 transactions per agent in 2019, up from 5.1 transactions per agent in 2019, eXp World Holdings is delivering positive results, trending in the right direction.
 
-**How is your company performing relative to competitors in the same domain?** 
+* <i>Agent growth</i> - eXp World Holdings saw its agent count grow 59% year over year to 28,449 agents <i>(see image below)</i>
 
-* <i>Agent growth and Market Share</i> - eXp World Holdings saw agent count grow 59% year over year tp 28,449 agents
+![markdown-image](images/expi-agent-growth.jpg)
+
+**How is your company performing relative to competitors in the same domain?** 
 
 * <i>Transaction sides growth and market share</i> - Total residential sides compound annual growth rates (CAGR) from 2014 to 2019, for eXp World Holdings was 126%, behind Compass at CAGR of 144%, but ahead of Refin at CAGR of 34%. Established industry players such as Keller Williams, RE/MAX delivered CAGR below 10% for the same four year period, while Realogy agencies, Coldwell Banker and Century 21, both delivered negative CAGRs. 
 
 * <i>Brokerage efficiency metrics or transactions per agent</i> - eXp World Holdings produced improved brokerage efficiency metrics the last four years, yet still lagd behind industry leaders, such as RE/MAX (16.0), Keller Williams (6.9). Most traditional RE brokerages have experienced negative trending broker efficiency figures, dating back to 2016, while technology-driven RE firms are generating positive trending transactions per agent results.
+
+* <i>Agent growth and Market Share</i> - eXp World Holdings saw agent count grow 59% year over year tp 28,449 agents
 
 eXp World Holdings is clearly outperforming the industry on a percentage growth basis, however off a relatively low market share base. The current operating conditions have pulled forward many secular trend shifts in technology, providing a significant tailwind for the cloud-based and virual workplace company, moving forward.
 
