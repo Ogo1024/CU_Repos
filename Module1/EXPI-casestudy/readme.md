@@ -4,7 +4,7 @@
 
 ## This fintech case study provides company analysis on eXp World Holdings (NASDAQ: EXPI) and its peers.
 
-![markdown-image](images/expi-chart.jpg)
+![markdown-image](expi-chart.jpg)
 
 ## FinTech Domain
 
